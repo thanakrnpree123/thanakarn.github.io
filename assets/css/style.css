@@ -267,7 +267,7 @@ button:focus,
   z-index: -1;
   width: 100%;
   height: 100%;
-  background-image: url(/images/S__42000386.jpg);
+  background-image: url(../../images/S__42000386.jpg);
   background-size: cover;
   background-position: center top;
 }
